@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=depperm)](https://github.com/ryo-ma/github-profile-trophy)
 
 - I’m interested in procedural generation and coding challenges.
