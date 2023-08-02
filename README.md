@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=depperm)](https://github.com/depperm/github-profile-trophy)
+
 - Hi, I’m @depperm
 - I’m interested in procedural generation and coding challenges.
 - I’m currently learning v
