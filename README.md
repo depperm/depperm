@@ -13,4 +13,4 @@
 
 ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
 
-<!--- ![Stackoverflow](/metrics.plugin.stackoverflow.svg) --->
+![Stackoverflow](/metrics.plugin.stackoverflow.svg)
